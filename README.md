@@ -16,7 +16,6 @@ make
 To run the executable:
 
 ```bash
-cd Knapsack
 ./knapsack PATH_TO_INPUT_FILE.txt
 ```
 
