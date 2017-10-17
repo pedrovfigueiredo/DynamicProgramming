@@ -9,12 +9,14 @@ Repository for allocating algorithms solved using dynamic programming for the An
 To compile, just run the command:
 
 ```bash
+cd Knapsack
 make
 ```
 
 To run the executable:
 
 ```bash
+cd Knapsack
 ./knapsack PATH_TO_INPUT_FILE.txt
 ```
 
